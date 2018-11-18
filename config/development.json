@@ -1,0 +1,8 @@
+{
+	"FB": {
+		"PAGE_ACCESS_TOKEN": "page-access-token",
+		"VERIFY_TOKEN": "verify-token",
+		"APP_SECRET": "app-secret"
+	},
+	"TMDB": "tmdb-api-key"
+}
